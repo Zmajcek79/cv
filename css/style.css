@@ -1,0 +1,13 @@
+img {
+    border-radius: 50%;
+}
+
+#main-header {
+    position: relative;
+    display: flex;
+}
+
+#main-header li {
+    margin-left: 1.5rem;
+    list-style: none;
+}
